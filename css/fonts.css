@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Lato-blackItalic';
+    src: url('../fonts/Lato-BlackItalic.eot');
+    src: url('../fonts/Lato-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-BlackItalic.woff2') format('woff2'),
+        url('../fonts/Lato-BlackItalic.woff') format('woff'),
+        url('../fonts/Lato-BlackItalic.svg#Lato-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
